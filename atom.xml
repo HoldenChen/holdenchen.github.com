@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://holdenchen.github.io/atom.xml" rel="self"/>
   <link href="http://holdenchen.github.io/"/>
-  <updated>2015-12-18T00:41:11+08:00</updated>
+  <updated>2015-12-18T00:48:34+08:00</updated>
   <id>http://holdenchen.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[开天劈地]]></title>
+    <link href="http://holdenchen.github.io/blog/2015/12/18/kai-tian-pi-di/"/>
+    <updated>2015-12-18T00:47:57+08:00</updated>
+    <id>http://holdenchen.github.io/blog/2015/12/18/kai-tian-pi-di</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
